@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/chris-gibson/Grinding/issues"
   },
-  "homepage": "https://github.com/chris-gibson/Grinding"
+  "homepage": "https://github.com/chris-gibson/Grinding",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
 }
