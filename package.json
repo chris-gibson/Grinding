@@ -1,0 +1,16 @@
+{
+  "name": "Grinding",
+  "version": "0.0.1",
+  "description": "A site to play a video from a Lirik stream I recorded",
+  "main": "grinding.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chris-gibson/Grinding"
+  },
+  "author": "Chris Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chris-gibson/Grinding/issues"
+  },
+  "homepage": "https://github.com/chris-gibson/Grinding"
+}
